@@ -22,6 +22,7 @@ java/lang/RuntimeException
 java/lang/SecurityManager
 java/security/ProtectionDomain
 java/security/AccessControlContext
+java/security/AccessController
 java/security/SecureClassLoader
 java/lang/ClassNotFoundException
 java/lang/ReflectiveOperationException
